@@ -10,3 +10,4 @@ This repository is **archived**. For more information, see one of the available 
 * [GeoFire for JavaScript](https://github.com/firebase/geofire-js)
 * [GeoFire for Objective-C/Swift](https://github.com/firebase/geofire-objc)
 * [GeoFire for Java](https://github.com/firebase/geofire-java)
+* [GeoFire for Android](https://github.com/firebase/geofire-android)
